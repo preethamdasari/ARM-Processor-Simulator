@@ -1,2 +1,2 @@
 # ARM-Processor-Simulator
-Simulator of an ARM processor using petrinet
+Simulator of an ARM processor using petrinet model
